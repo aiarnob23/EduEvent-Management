@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "eventName": "Workshops and Webinars Management",
+    "price": "$50",
+    "image": "https://i.ibb.co/T1ZPgPF/strate.jpg",
+    "details": "Professional event management for workshops and webinars.",
+    "description": "Elevate your workshops and webinars with our top-tier event management services. We specialize in creating seamless, engaging, and informative experiences for your participants. Our team of event experts will work closely with you to understand your objectives and tailor the event to your specific needs. From pre-event planning to on-site coordination and post-event evaluations, we handle it all. Let us ensure that your workshops and webinars run flawlessly, leaving a lasting impact on your audience. With our dedication to excellence, you can focus on delivering valuable content while we take care of the logistics."
+  },
+  {
+    "id": 2,
+    "eventName": "Career Fairs Handle",
+    "price": "$70",
+    "image": "https://i.ibb.co/Ln5DvSX/14979112-SL-052021-43150-03.jpg",
+    "details": "Tailored event management services for career fairs and seminars.",
+    "description": "Transform your career fair into a standout event with our customized event management solutions. We understand that every career fair is unique, and we are committed to making yours a success. Our experienced team will collaborate with you to design a career fair that aligns with your goals and vision. From venue selection and booth arrangements to marketing and attendee engagement, we handle the intricate details. By entrusting us with your career fair management, you ensure a seamless experience for employers and job seekers alike, making your event the talk of the town."
+  },
+  {
+    "id": 3,
+    "eventName": "Educational Conferences Organize",
+    "price": "$69",
+    "image": "https://i.ibb.co/djS3XW5/24023085-conference-01.jpg",
+    "details": "Comprehensive event management for educational conferences.",
+    "description": "Experience the pinnacle of educational conference management with our dedicated team. We specialize in curating educational conferences that inspire, educate, and connect. Our end-to-end event management services cover everything from program development and speaker selection to venue logistics and participant registration. With our meticulous planning and attention to detail, we ensure that your educational conference exceeds expectations. Whether it's a small symposium or a large-scale international conference, our commitment to excellence remains unwavering. Let us make your educational conference a resounding success."
+  },
+  {
+    "id": 4,
+    "eventName": "Training Programs Arrange",
+    "price": "$100",
+    "image": "https://i.ibb.co/wr6PhcP/4951569-19962.jpg",
+    "details": "Event management services for training programs and workshops.",
+    "description": "Elevate your training programs and workshops with our expert event management solutions. We understand the importance of impactful and well-organized training events. Our team of professionals specializes in delivering seamless, engaging, and results-driven training experiences. From venue selection and scheduling to participant engagement and content delivery, we take care of it all. With our event management expertise, you can focus on delivering exceptional training, knowing that every logistical aspect is in capable hands. Partner with us to ensure your training programs stand out and drive meaningful learning outcomes."
+  },
+  {
+    "id": 5,
+    "eventName": "Educational Fest Management",
+    "price": "$78",
+    "image": "https://i.ibb.co/n3DwVrg/24717312-6991866.jpg",
+    "details": "Full-service event management for educational festivals with drones also.",
+    "description": "Experience the thrill of organizing unforgettable educational festivals with our full-service event management team. We excel in turning your festival ideas into vibrant, well-executed events that leave a lasting impression. Our services encompass every aspect of festival management, from conceptualization and theme development to vendor coordination and attendee engagement. Whether you're planning a student fest, a cultural extravaganza, or an academic festival, we have the expertise to bring your vision to life. Let us handle the logistics while you enjoy the success of your educational festival."
+  },
+  {
+    "id": 6,
+    "eventName": "Project Showcase Competition Handle",
+    "price": "$99",
+    "image": "https://i.ibb.co/RSt18pG/plan-project-architecture-blueprint-drawing-concept.jpg",
+    "details": "Event management for project showcase competitions with unstoppable power services.",
+    "description": "Make your project showcase competition a resounding success with our professional event management services. We understand the importance of creating a competitive and engaging environment for participants and attendees. Our team specializes in planning and executing flawless competitions, from registration and judging to awards ceremonies and post-event analysis. By entrusting us with your project showcase competition management, you ensure a smooth and memorable experience for all involved. Let us handle the logistics while you focus on showcasing talent and innovation at its best."
+  }
+]
